@@ -168,15 +168,15 @@ SITE_ID = 1
 SOCIALACCOUNT_PROVIDERS = {
     'github': {
         'APP': {
-            'client_id': '',
-            'secret': '',
+            'client_id': '51421be9d3a7a2594dce',
+            'secret': '57ece6689a8d2b27fd69628205ee26ba3f826d8b',
             'key': ''
         }
     },
     'linkedin': {
         'APP': {
-            'client_id': '',
-            'secret': '',
+            'client_id': '866ti39ygjzb7f',
+            'secret': '12Dt4zO1w5eDDA9K',
             'key': ''
         }
     }
